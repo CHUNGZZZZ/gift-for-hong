@@ -44,12 +44,12 @@ window.GIFT_DATA = {
             },
             {
                 pageNumber: 4,
-                text: "Dù giờ đây mỗi người một hướng đi, những buổi tụ họp khó lòng đông đủ như trước, nhưng hãy nhớ rằng phía sau luôn có tụi mình sẵn sàng sẻ chia mọi lúc mọi nơi 🎂💖",
+                text: "Dù giờ đây mỗi người một hướng đi, những buổi tụ họp khó lòng đông đủ như trước, nhưng hãy nhớ rằng phía sau luôn có mọi người sẵn sàng sẻ chia mọi lúc mọi nơi 🎂💖",
                 image: "assets/images/user/page4.jpg"
             },
             {
                 pageNumber: 5,
-                text: "Cảm ơn chị vì đã luôn ở đó, cùng tụi em đi qua một phần thanh xuân thật rực rỡ và trọn vẹn ❤️✨",
+                text: "Cảm ơn bạn vì đã đồng hành, cùng nhau đi qua một phần thanh xuân thật rực rỡ và trọn vẹn ❤️✨",
                 image: "assets/images/user/page5.jpg"
             }
         ]
